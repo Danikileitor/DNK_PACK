@@ -6,7 +6,7 @@ description: Pack con plugins random
 api-version: 1.19
 load: POSTWORLD
 prefix: DNK
-softdepend: [Vault]
+softdepend: [Vault, DNKeconomy]
 commands:
     dnk:
      description: Primer comando
